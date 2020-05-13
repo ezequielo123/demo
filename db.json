@@ -1,3 +1,4 @@
+Access-Control-Allow-Origin:
 {
   "posts": [
     { "id": 1, "status": "Arrgelando el freno de mano amiguee" },
